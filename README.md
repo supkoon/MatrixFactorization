@@ -8,6 +8,7 @@ Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix Factorization Techniques for 
 ## --discription
 + dataset : Movielens
 + predict ratings 0~5
++ objective function![image](https://user-images.githubusercontent.com/50262023/126300501-de70f005-760a-46bd-9e8b-2d571b504807.png)
 
 
 ## example : MF
